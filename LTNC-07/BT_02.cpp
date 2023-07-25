@@ -24,9 +24,9 @@ void word(int i) {
 }
 
 signed main() {
-    word(1);
-    for (string x : myString) {
-    	cout << x << endl;
+	word(1);
+	for (string x : myString) {
+		cout << x << endl;
 	}
     return 0;
 }
