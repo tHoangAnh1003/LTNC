@@ -53,8 +53,8 @@ class Box {
             return this->l < other.l;
         }
         
-        friend ostream &operator<< (ostream &os, const Box& a) {
-            os << a.l << ' ' << a.b << ' ' << a.h;
+        friend ostream &operator<< (ostream &os, const Box& B) {
+            os << B.l << ' ' << B.b << ' ' << B.h;
             return os;
         }
 };
