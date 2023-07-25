@@ -8,7 +8,7 @@ Read statement for specification.
 */
 
 class Student {
-    private :
+    private:
         int age;
         string first_name, last_name;
         int standard;
