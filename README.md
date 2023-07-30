@@ -1,6 +1,6 @@
 # LTNC
 Link bài tập LTNC:
-<span style="color : blue;"> Test </span>
+<span style="color: blue;">Test</span>
 
 #LTNC-01: https://docs.google.com/document/d/1rVNWS9yQvCd4p4t3nbYGp8nAHkd56B8brtiEVAepU78/edit?usp=sharing
 
