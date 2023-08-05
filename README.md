@@ -16,3 +16,5 @@ Link bài tập LTNC:
 #LTNC-07: https://docs.google.com/document/d/1n28AtDkpqfLaw-UfHMHkFIQQn6_vvz2bT4BU73z3u1E/edit?usp=sharing
 
 #LTNC-08: https://docs.google.com/document/d/1vLAX-s0voUblmiYlTwGtb8fAz1K1hv7zAyvqKxz007c/edit?usp=sharing
+
+#LTNC-09: https://docs.google.com/document/d/1H1PDAzsHsypuw4_cJZXfhx-XGQlAvG6ToectWhqfIAU/edit?usp=sharing
